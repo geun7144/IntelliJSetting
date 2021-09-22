@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/geun7144/java8to11.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aionco-dev@dev.azure.com/aionco-dev/Hive%202.0/_git/Hive%202.0%20Backend" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\" />
