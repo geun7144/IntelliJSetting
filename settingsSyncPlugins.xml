@@ -52,6 +52,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="idea-mini-ibatis">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="indent-rainbow.indent-rainbow">
           <value>
             <PluginData>
@@ -60,6 +65,7 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
